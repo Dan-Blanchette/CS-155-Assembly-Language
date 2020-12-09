@@ -1,0 +1,31 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	AddSpace                306B
+//	CharCount               3092
+//	DONE                    306E
+//	ERROR                   3073
+//	EndMessage              30FE
+//	Eprompt                 311B
+//	LoopCount               308B
+//	MAIN                    300C
+//	MaxShift                3090
+//	Message                 3019
+//	NegA                    308E
+//	NegZ                    308F
+//	NewLine                 308C
+//	NoWrap                  308D
+//	Prompt1                 3098
+//	Prompt2                 30DB
+//	Rem_ASCII               3091
+//	WR                      3094
+//	encipher_A              304D
+//	encipher_B              3056
+//	encipher_C              305D
+//	encipher_D              3063
+//	isSpace                 3093
+//	isUpper                 303F
+//	is_R                    3095
+//	is_Z                    3096
+//	toUpper                 3044
+//	toUpperC                3097
+//	uInput                  3076
