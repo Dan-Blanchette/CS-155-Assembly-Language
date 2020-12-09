@@ -1,0 +1,22 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	AGAIN                   3012
+//	ARRAY                   30BB
+//	ASCII_CHECK             30B7
+//	CONVERT                 30BC
+//	COUNT                   30C0
+//	CTERM                   30BD
+//	CTERM2                  30BE
+//	DONE                    30CB
+//	GETCHAR                 309B
+//	GetInt                  3015
+//	MEMBLOCK                30C1
+//	NEG_COUNT               30B8
+//	NEWLINE                 301A
+//	PROMPT1                 301B
+//	PROMPT2                 303B
+//	PROMPT3                 307F
+//	RETURN                  30BF
+//	SaveR2                  30BA
+//	TOTAL_LOWER             30A7
+//	UPDATE                  3094

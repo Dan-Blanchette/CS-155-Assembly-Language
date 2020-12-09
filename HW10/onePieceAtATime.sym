@@ -1,0 +1,7 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BUFFER                  300F
+//	MAX_BUFFER              300C
+//	Stack_Top               300B
+//	TRAP_Hndlr              300E
+//	TRP_ADDY                300D

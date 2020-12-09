@@ -1,0 +1,11 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BUFFER                  3014
+//	EMPTY                   3012
+//	POP                     300A
+//	PUSH                    3008
+//	SaveR7                  3013
+//	TOP_OF_STACK            3011
+//	VALUE1                  300E
+//	VALUE2                  300F
+//	VALUE3                  3010
